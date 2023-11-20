@@ -1,0 +1,8 @@
+DB_PATH = 'forms.json'
+NAME_FIELD = 'name'
+DATE_FIELD = 'date'
+PHONE_FIELD = 'phone'
+EMAIL_FIELD = 'email'
+TEXT_FIELD = 'text'
+REGEX_PHONE = r'^[+\s+]?7(\s+\d{3}){2}(\s+\d{2}){2}$'
+REGEX_EMAIL = r'^\S+@\S+.\w{2,4}$'

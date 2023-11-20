@@ -1,0 +1,19 @@
+{"_default": 
+    {
+        "1": {
+            "name": "Order",
+            "order_date": "date",
+            "customer_email": "email",
+            "customer_phone": "phone",
+            "description": "text"
+        },
+        "2": {
+            "name": "Rezervation",
+            "in_date": "date",
+            "out_date": "date",
+            "client_email": "email",
+            "client_phone": "phone",
+            "description": "text"
+        }
+    }
+}
